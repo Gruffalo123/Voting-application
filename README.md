@@ -60,19 +60,19 @@ url|页面
 - 使用通用视图：代码还是少点好
 
 # 结果展示
-主页面
+***主页面***
 
 ![主页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/polls.jpg)
 
-投票详情页面
+***投票详情页面***
 
 ![投票详情展示页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/1.jpg)
 
-操作错误页面
+***操作错误页面***
 
 ![不选择任何选项进行投票](https://github.com/Gruffalo123/others/blob/master/mysite_vote/vote_error.jpg)
 
-成功投票结果展示页面
+***成功投票结果展示页面***
 
 ![正确操作结果页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/correct_vote.jpg)
 
