@@ -38,3 +38,16 @@
 - 激活模型
 - 初试API
 - Django管理页面
+
+## 第三部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial03/)
+- 编写视图
+- 抛出404错误
+- 使用模板系统
+- 去除模板中的硬编码 URL
+- 为 URL 名称添加命名空间
+
+## 第四部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial04/)
+- 编写一个简单的表单
+- 使用通用视图：代码还是少点好
