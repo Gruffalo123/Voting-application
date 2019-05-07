@@ -22,7 +22,14 @@
 ### 模型：
 &emsp;在这个简单的投票应用中，需要创建两个模型：问题 Question 和选项 Choice。
 - Question 模型包括问题描述和发布时间。
-- Choice 模型有两个字段，选项描述和当前得票数。每个选项属于一个问题。
+- Choice 模型有两个字段，选项描述和当前得票数。每个选项属于一个问题。  
+
+### url对应的页面
+url|页面
+-|-
+127.0.0.1/polls |问题总页面
+../polls/1|第一个投票详情页面
+../polls/results|投票结果页面
 
 ## 第一部分
 &emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
