@@ -76,4 +76,10 @@ url|页面
 
 ![正确操作结果页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/correct_vote.jpg)
 
+## 第五部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial05/)
+- 自动化测试
 
+## 第六部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial06/)
+- 自定义界面和风格
