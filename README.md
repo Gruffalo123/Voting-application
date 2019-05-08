@@ -24,6 +24,13 @@
 - Question 模型包括问题描述和发布时间。
 - Choice 模型有两个字段，选项描述和当前得票数。每个选项属于一个问题。  
 
+---  
+
+<table><tr><td bgcolor=red>一定注意遵循编码规范PEP 8</td></tr></table>  
+
+---  
+  
+
 ### url对应的页面
 url|页面
 -|-
@@ -76,4 +83,14 @@ url|页面
 
 ![正确操作结果页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/correct_vote.jpg)
 
+## 第五部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial05/)
+- 自动化测试
 
+## 第六部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial06/)
+- 自定义界面和风格
+
+## 第七部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial07/)
+- 自定义后台表单
