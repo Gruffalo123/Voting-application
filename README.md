@@ -24,8 +24,12 @@
 - Question 模型包括问题描述和发布时间。
 - Choice 模型有两个字段，选项描述和当前得票数。每个选项属于一个问题。  
 
-<font color=#ff0000 size=4> 一定注意遵循编码规范PEP 8 </font>  
+---  
 
+<table><tr><td bgcolor=red>一定注意遵循编码规范PEP 8</td></tr></table>  
+
+---  
+  
 
 ### url对应的页面
 url|页面
