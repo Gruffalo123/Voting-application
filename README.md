@@ -90,3 +90,7 @@ url|页面
 ## 第六部分
 &emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial06/)
 - 自定义界面和风格
+
+## 第七部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial07/)
+- 自定义后台表单
