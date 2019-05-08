@@ -22,7 +22,14 @@
 ### 模型：
 &emsp;在这个简单的投票应用中，需要创建两个模型：问题 Question 和选项 Choice。
 - Question 模型包括问题描述和发布时间。
-- Choice 模型有两个字段，选项描述和当前得票数。每个选项属于一个问题。
+- Choice 模型有两个字段，选项描述和当前得票数。每个选项属于一个问题。  
+
+### url对应的页面
+url|页面
+-|-
+127.0.0.1/polls |问题总页面
+../polls/1|第一个投票详情页面
+../polls/results|投票结果页面
 
 ## 第一部分
 &emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/)
@@ -38,3 +45,35 @@
 - 激活模型
 - 初试API
 - Django管理页面
+
+## 第三部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial03/)
+- 编写视图
+- 抛出404错误
+- 使用模板系统
+- 去除模板中的硬编码 URL
+- 为 URL 名称添加命名空间
+
+## 第四部分
+&emsp;[详细 参考/实现](https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial04/)
+- 编写一个简单的表单
+- 使用通用视图：代码还是少点好
+
+# 结果展示
+1. ***主页面***  
+
+![主页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/polls.jpg)
+
+2. ***投票详情页面***  
+
+![投票详情展示页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/1.jpg)
+
+3. ***操作错误页面***  
+
+![不选择任何选项进行投票](https://github.com/Gruffalo123/others/blob/master/mysite_vote/vote_error.jpg)
+
+4. ***成功投票结果展示页面***  
+
+![正确操作结果页面](https://github.com/Gruffalo123/others/blob/master/mysite_vote/correct_vote.jpg)
+
+
